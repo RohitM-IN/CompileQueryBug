@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EFCoreCompile": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
